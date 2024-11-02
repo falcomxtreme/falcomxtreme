@@ -5,7 +5,7 @@
 ## 🌐 Connect with Me
 
 <div>
-    <a href="https://www.linkedin.com/in/falcomxtreme/" target="_blank">
+    <a href="https://www.linkedin.com/in/falcomxtreme/">
         <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto:felipesmking@gmail.com">
