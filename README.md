@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning TypeScript, React and NodeJS
+- 🌱 I’m currently learning Python, JavaScript and CSS
 
 ## 🛠 Technologies and Tools
 
